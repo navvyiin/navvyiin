@@ -13,3 +13,15 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=navvyiin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/navvyiin/navvyiin/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/navvyiin/navvyiin/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
