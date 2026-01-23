@@ -45,6 +45,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0003-longest-substring-without-repeating-characters](https://github.com/navvyiin/navvyiin/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/navvyiin/navvyiin/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/navvyiin/navvyiin/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/navvyiin/navvyiin/tree/master/0008-string-to-integer-atoi) |
 ## Sliding Window
 |  |
 | ------- |
