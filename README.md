@@ -19,6 +19,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0011-container-with-most-water](https://github.com/navvyiin/navvyiin/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/navvyiin/navvyiin/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/navvyiin/navvyiin/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/navvyiin/navvyiin/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0005-longest-palindromic-substring](https://github.com/navvyiin/navvyiin/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/navvyiin/navvyiin/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/navvyiin/navvyiin/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/navvyiin/navvyiin/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,4 +91,5 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0015-3sum](https://github.com/navvyiin/navvyiin/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/navvyiin/navvyiin/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
