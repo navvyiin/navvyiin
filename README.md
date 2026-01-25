@@ -18,4 +18,16 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/navvyiin/navvyiin/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/navvyiin/navvyiin/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/navvyiin/navvyiin/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/navvyiin/navvyiin/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
