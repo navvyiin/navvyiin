@@ -25,6 +25,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/navvyiin/navvyiin/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/navvyiin/navvyiin/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## String Matching
 |  |
 | ------- |
@@ -37,4 +38,12 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/navvyiin/navvyiin/tree/master/0029-divide-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/navvyiin/navvyiin/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/navvyiin/navvyiin/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
