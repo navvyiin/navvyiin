@@ -15,6 +15,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | ------- |
 | [0031-next-permutation](https://github.com/navvyiin/navvyiin/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/navvyiin/navvyiin/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/navvyiin/navvyiin/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +36,5 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/navvyiin/navvyiin/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/navvyiin/navvyiin/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
