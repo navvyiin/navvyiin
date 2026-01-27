@@ -14,6 +14,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/navvyiin/navvyiin/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/navvyiin/navvyiin/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +31,8 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/navvyiin/navvyiin/tree/master/0032-longest-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/navvyiin/navvyiin/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
