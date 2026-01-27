@@ -18,4 +18,16 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/navvyiin/navvyiin/tree/master/0031-next-permutation) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/navvyiin/navvyiin/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/navvyiin/navvyiin/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/navvyiin/navvyiin/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
