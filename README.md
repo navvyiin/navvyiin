@@ -14,6 +14,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/navvyiin/navvyiin/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/navvyiin/navvyiin/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/navvyiin/navvyiin/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/navvyiin/navvyiin/tree/master/0039-combination-sum) |
 ## Matrix
 |  |
 | ------- |
