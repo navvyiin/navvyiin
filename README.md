@@ -26,4 +26,8 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/navvyiin/navvyiin/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/navvyiin/navvyiin/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
