@@ -16,6 +16,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0041-first-missing-positive](https://github.com/navvyiin/navvyiin/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/navvyiin/navvyiin/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/navvyiin/navvyiin/tree/master/0045-jump-game-ii) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,24 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/navvyiin/navvyiin/tree/master/0044-wildcard-matching) |
+## Binary Search
+|  |
+| ------- |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
