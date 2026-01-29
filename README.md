@@ -72,6 +72,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 ## Depth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/navvyiin/navvyiin/tree/master/0841-keys-and-rooms) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -81,4 +82,12 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/navvyiin/navvyiin/tree/master/0841-keys-and-rooms) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/navvyiin/navvyiin/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
