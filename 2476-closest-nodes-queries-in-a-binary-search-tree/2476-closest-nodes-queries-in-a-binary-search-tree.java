@@ -1,21 +1,19 @@
 import java.util.*;
 
 class Solution {
-
     public List<List<Integer>> closestNodes(TreeNode root, List<Integer> queries) {
         List<Integer> sorted = new ArrayList<>();
         inorder(root, sorted);
 
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<>(queries.size());
 
         for (int q : queries) {
             int floor = getFloor(sorted, q);
             int ceil = getCeil(sorted, q);
-
-            result.add(Arrays.asList(floor, ceil));
+            ans.add(Arrays.asList(floor, ceil));
         }
 
-        return result;
+        return ans;
     }
 
     // In-order traversal to get sorted values
@@ -27,36 +25,36 @@ class Solution {
     }
 
     // Largest value <= target
-    private int getFloor(List<Integer> list, int target) {
-        int left = 0, right = list.size() - 1;
-        int ans = -1;
+    private int getFloor(List<Integer> arr, int target) {
+        int l = 0, r = arr.size() - 1;
+        int res = -1;
 
-        while (left <= right) {
-            int mid = (left + right) / 2;
-            if (list.get(mid) <= target) {
-                ans = list.get(mid);
-                left = mid + 1;
+        while (l <= r) {
+            int mid = (l + r) >>> 1;
+            if (arr.get(mid) <= target) {
+                res = arr.get(mid);
+                l = mid + 1;
             } else {
-                right = mid - 1;
+                r = mid - 1;
             }
         }
-        return ans;
+        return res;
     }
 
     // Smallest value >= target
-    private int getCeil(List<Integer> list, int target) {
-        int left = 0, right = list.size() - 1;
-        int ans = -1;
+    private int getCeil(List<Integer> arr, int target) {
+        int l = 0, r = arr.size() - 1;
+        int res = -1;
 
-        while (left <= right) {
-            int mid = (left + right) / 2;
-            if (list.get(mid) >= target) {
-                ans = list.get(mid);
-                right = mid - 1;
+        while (l <= r) {
+            int mid = (l + r) >>> 1;
+            if (arr.get(mid) >= target) {
+                res = arr.get(mid);
+                r = mid - 1;
             } else {
-                left = mid + 1;
+                l = mid + 1;
             }
         }
-        return ans;
+        return res;
     }
 }
