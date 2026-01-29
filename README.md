@@ -35,4 +35,16 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/navvyiin/navvyiin/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/navvyiin/navvyiin/tree/master/0043-multiply-strings) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/navvyiin/navvyiin/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/navvyiin/navvyiin/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
