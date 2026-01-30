@@ -16,6 +16,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0041-first-missing-positive](https://github.com/navvyiin/navvyiin/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/navvyiin/navvyiin/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/navvyiin/navvyiin/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/navvyiin/navvyiin/tree/master/0046-permutations) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -90,4 +91,8 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/navvyiin/navvyiin/tree/master/0841-keys-and-rooms) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/navvyiin/navvyiin/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
