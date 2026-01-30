@@ -19,11 +19,13 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0046-permutations](https://github.com/navvyiin/navvyiin/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/navvyiin/navvyiin/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/navvyiin/navvyiin/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/navvyiin/navvyiin/tree/master/0049-group-anagrams) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/navvyiin/navvyiin/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/navvyiin/navvyiin/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +54,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | ------- |
 | [0043-multiply-strings](https://github.com/navvyiin/navvyiin/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/navvyiin/navvyiin/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/navvyiin/navvyiin/tree/master/0049-group-anagrams) |
 ## Simulation
 |  |
 | ------- |
@@ -103,6 +106,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/navvyiin/navvyiin/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/navvyiin/navvyiin/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
 | ------- |
