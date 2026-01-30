@@ -18,6 +18,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0045-jump-game-ii](https://github.com/navvyiin/navvyiin/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/navvyiin/navvyiin/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/navvyiin/navvyiin/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/navvyiin/navvyiin/tree/master/0048-rotate-image) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/navvyiin/navvyiin/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/navvyiin/navvyiin/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -101,4 +103,8 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/navvyiin/navvyiin/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/navvyiin/navvyiin/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
