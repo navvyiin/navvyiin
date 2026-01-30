@@ -21,6 +21,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0048-rotate-image](https://github.com/navvyiin/navvyiin/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/navvyiin/navvyiin/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/navvyiin/navvyiin/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/navvyiin/navvyiin/tree/master/0053-maximum-subarray) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0042-trapping-rain-water](https://github.com/navvyiin/navvyiin/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/navvyiin/navvyiin/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/navvyiin/navvyiin/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/navvyiin/navvyiin/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -116,4 +118,8 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/navvyiin/navvyiin/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/navvyiin/navvyiin/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
