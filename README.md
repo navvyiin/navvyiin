@@ -40,6 +40,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/navvyiin/navvyiin/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/navvyiin/navvyiin/tree/master/0061-rotate-list) |
 | [0821-shortest-distance-to-a-character](https://github.com/navvyiin/navvyiin/tree/master/0821-shortest-distance-to-a-character) |
 ## Dynamic Programming
 |  |
@@ -143,4 +144,8 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/navvyiin/navvyiin/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/navvyiin/navvyiin/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
