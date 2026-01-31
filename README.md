@@ -68,6 +68,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0043-multiply-strings](https://github.com/navvyiin/navvyiin/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/navvyiin/navvyiin/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/navvyiin/navvyiin/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/navvyiin/navvyiin/tree/master/0058-length-of-last-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/navvyiin/navvyiin/tree/master/0821-shortest-distance-to-a-character) |
 | [2399-check-distances-between-same-letters](https://github.com/navvyiin/navvyiin/tree/master/2399-check-distances-between-same-letters) |
 ## Simulation
