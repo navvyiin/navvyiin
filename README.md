@@ -23,12 +23,14 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0051-n-queens](https://github.com/navvyiin/navvyiin/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/navvyiin/navvyiin/tree/master/0053-maximum-subarray) |
 | [0821-shortest-distance-to-a-character](https://github.com/navvyiin/navvyiin/tree/master/0821-shortest-distance-to-a-character) |
+| [2399-check-distances-between-same-letters](https://github.com/navvyiin/navvyiin/tree/master/2399-check-distances-between-same-letters) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/navvyiin/navvyiin/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/navvyiin/navvyiin/tree/master/0049-group-anagrams) |
+| [2399-check-distances-between-same-letters](https://github.com/navvyiin/navvyiin/tree/master/2399-check-distances-between-same-letters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +64,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0044-wildcard-matching](https://github.com/navvyiin/navvyiin/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/navvyiin/navvyiin/tree/master/0049-group-anagrams) |
 | [0821-shortest-distance-to-a-character](https://github.com/navvyiin/navvyiin/tree/master/0821-shortest-distance-to-a-character) |
+| [2399-check-distances-between-same-letters](https://github.com/navvyiin/navvyiin/tree/master/2399-check-distances-between-same-letters) |
 ## Simulation
 |  |
 | ------- |
