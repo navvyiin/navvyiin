@@ -26,6 +26,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0055-jump-game](https://github.com/navvyiin/navvyiin/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/navvyiin/navvyiin/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/navvyiin/navvyiin/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/navvyiin/navvyiin/tree/master/0059-spiral-matrix-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/navvyiin/navvyiin/tree/master/0821-shortest-distance-to-a-character) |
 | [2399-check-distances-between-same-letters](https://github.com/navvyiin/navvyiin/tree/master/2399-check-distances-between-same-letters) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -76,6 +77,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | ------- |
 | [0043-multiply-strings](https://github.com/navvyiin/navvyiin/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/navvyiin/navvyiin/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/navvyiin/navvyiin/tree/master/0059-spiral-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +136,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | ------- |
 | [0048-rotate-image](https://github.com/navvyiin/navvyiin/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/navvyiin/navvyiin/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/navvyiin/navvyiin/tree/master/0059-spiral-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
