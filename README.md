@@ -24,6 +24,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0053-maximum-subarray](https://github.com/navvyiin/navvyiin/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/navvyiin/navvyiin/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/navvyiin/navvyiin/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/navvyiin/navvyiin/tree/master/0056-merge-intervals) |
 | [0821-shortest-distance-to-a-character](https://github.com/navvyiin/navvyiin/tree/master/0821-shortest-distance-to-a-character) |
 | [2399-check-distances-between-same-letters](https://github.com/navvyiin/navvyiin/tree/master/2399-check-distances-between-same-letters) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -125,6 +126,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | ------- |
 | [0047-permutations-ii](https://github.com/navvyiin/navvyiin/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/navvyiin/navvyiin/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/navvyiin/navvyiin/tree/master/0056-merge-intervals) |
 ## Matrix
 |  |
 | ------- |
