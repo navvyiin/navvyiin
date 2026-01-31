@@ -22,6 +22,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0049-group-anagrams](https://github.com/navvyiin/navvyiin/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/navvyiin/navvyiin/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/navvyiin/navvyiin/tree/master/0053-maximum-subarray) |
+| [0821-shortest-distance-to-a-character](https://github.com/navvyiin/navvyiin/tree/master/0821-shortest-distance-to-a-character) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/navvyiin/navvyiin/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/navvyiin/navvyiin/tree/master/0042-trapping-rain-water) |
+| [0821-shortest-distance-to-a-character](https://github.com/navvyiin/navvyiin/tree/master/0821-shortest-distance-to-a-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +61,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | [0043-multiply-strings](https://github.com/navvyiin/navvyiin/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/navvyiin/navvyiin/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/navvyiin/navvyiin/tree/master/0049-group-anagrams) |
+| [0821-shortest-distance-to-a-character](https://github.com/navvyiin/navvyiin/tree/master/0821-shortest-distance-to-a-character) |
 ## Simulation
 |  |
 | ------- |
