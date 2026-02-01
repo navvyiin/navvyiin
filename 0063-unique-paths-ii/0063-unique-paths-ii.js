@@ -2,27 +2,32 @@
  * @param {number[][]} obstacleGrid
  * @return {number}
  */
-var uniquePathsWithObstacles = function(obstacleGrid) {
-    const m = obstacleGrid.length;
-    const n = obstacleGrid[0].length;
+var uniquePathsWithObstacles = function(grid) {
+    const m = grid.length;
+    const n = grid[0].length;
 
-    // If start or end is blocked, no paths exist
-    if (obstacleGrid[0][0] === 1 || obstacleGrid[m - 1][n - 1] === 1) {
-        return 0;
+    if (grid[0][0] === 1) return 0;
+
+    grid[0][0] = 1;
+
+    // First row
+    for (let j = 1; j < n; j++) {
+        grid[0][j] = grid[0][j] === 0 ? grid[0][j - 1] : 0;
     }
 
-    const dp = new Array(n).fill(0);
-    dp[0] = 1; // starting position
+    // First column
+    for (let i = 1; i < m; i++) {
+        grid[i][0] = grid[i][0] === 0 ? grid[i - 1][0] : 0;
+    }
 
-    for (let i = 0; i < m; i++) {
-        for (let j = 0; j < n; j++) {
-            if (obstacleGrid[i][j] === 1) {
-                dp[j] = 0;
-            } else if (j > 0) {
-                dp[j] += dp[j - 1];
-            }
+    // Rest of the grid
+    for (let i = 1; i < m; i++) {
+        for (let j = 1; j < n; j++) {
+            grid[i][j] = grid[i][j] === 0
+                ? grid[i - 1][j] + grid[i][j - 1]
+                : 0;
         }
     }
 
-    return dp[n - 1];
+    return grid[m - 1][n - 1];
 };
