@@ -14,6 +14,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/navvyiin/navvyiin/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/navvyiin/navvyiin/tree/master/0066-plus-one) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ I am a senior at Bangalore Uni specialising in Earth Sciences and Geoinformatics
 | ------- |
 | [0063-unique-paths-ii](https://github.com/navvyiin/navvyiin/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/navvyiin/navvyiin/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/navvyiin/navvyiin/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
